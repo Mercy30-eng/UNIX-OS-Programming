@@ -5,8 +5,7 @@
 UNIX is a powerful, multi-user and multitasking operating system originally developed in the 1970s at Bell Labs by AT&T. It's known for its robustness and flexibility, and it's used primarily in servers, workstations, and mainframes.
 
 # Why Learn UNIX?
-- UNIX provides a variety of powerful tools and utilities that can be combined in unique ways to perform complex tasks. This makes it a very flexible and efficient     
-  operating system.
+- UNIX provides a variety of powerful tools and utilities that can be combined in unique ways to perform complex tasks. This makes it a very flexible and efficient   operating system.
 - Knowledge of UNIX can help you write shell scripts to automate tasks, which can save a lot of time and effort.
 - Many jobs, especially in the IT and software development sectors, require or prefer knowledge of UNIX. It's used extensively in servers, mainframes, and workstations in many industries.
 - UNIX forms the basis for many other operating systems, including Linux and MacOS. So, learning UNIX can make it easier to understand and use these systems.
